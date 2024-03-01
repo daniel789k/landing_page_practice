@@ -1,0 +1,10 @@
+.btn-special {
+    &.active{
+        box-shadow: $box-shadow;
+        color: white !important;
+    }
+}
+.btn-special:hover {
+    box-shadow: $box-shadow;
+    color: white !important;
+}
